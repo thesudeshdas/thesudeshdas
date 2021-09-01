@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Dash. I am Full Stack Develope and an UI/UX Designer.
+I am Dash. I am Full Stack Developer and an UI/UX Designer.
 
 <!-- Here are some ideas to get you started:
 
