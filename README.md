@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, JS, HTML, CSS, Designing and Product Development**
 
-- 📫 How to reach me **sudesh_das@outlook.com**
+- 📫 How to reach me **sudeshkumardas7@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
