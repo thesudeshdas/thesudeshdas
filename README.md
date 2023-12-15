@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Catalyst](https://github.com/thesudeshdas/catalyst)**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **NestJS**
 
 - 👨‍💻 All of my projects are available at **[thesudeshdas.com](https://www.thesudeshdas.com/)**
 
