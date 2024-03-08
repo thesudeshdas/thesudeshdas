@@ -2,7 +2,7 @@
 
 ### A Fullstack Dev hailing from the <a href="https://odishatourism.gov.in/content/tourism/en.html" target="_blank">best-kept secret</a> of India</h3>
 
-💸 By day, I work as a `Frontend Developer` at <a href="https://www.talentplace.ai" target="_blank">TalentPlace.ai</a>. Come night, I stream on Twitch and YouTube. Come say hi. Previously interned as a `Teaching Assistant` at <a href="https://neog.camp/" target="_blank">NeoG</a>. Work-life balance is a myth (at least in an early career).
+💸 By day, I work as a `Frontend Developer` at **<a href="https://www.talentplace.ai" target="_blank">TalentPlace.ai</a>**. Come night, I stream on Twitch and YouTube. Come say hi. Previously interned as a `Teaching Assistant` at **<a href="https://neog.camp/" target="_blank">NeoG</a>**. Work-life balance is a myth (at least in an early career).
 
 🎒 Graduated as a Bachelor of Commerce (Hons.), Management. YES, I am a **self-taught developer**.
 
