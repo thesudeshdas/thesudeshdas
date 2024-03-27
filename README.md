@@ -1,8 +1,8 @@
 # Hi 👋, I'm Sudesh Das
 
-### A Fullstack Dev hailing from the <a href="https://odishatourism.gov.in/content/tourism/en.html" target="_blank">best-kept secret</a> of India</h3>
+### A Fullstack Dev hailing from the <a href="https://odishatourism.gov.in/content/tourism/en.html" target="blank">best-kept secret</a> of India</h3>
 
-💸 By day, I work as a `Frontend Developer` at **<a href="https://www.talentplace.ai" target="_blank">TalentPlace.ai</a>**. Come night, I stream on Twitch and YouTube. Come say hi. Previously interned as a `Teaching Assistant` at **<a href="https://neog.camp/" target="_blank">NeoG</a>**. Work-life balance is a myth (at least in an early career).
+💸 By day, I work as a `Frontend Developer` at **<a href="https://www.talentplace.ai" target="blank">TalentPlace.ai</a>**. Come night, I stream on YouTube. Come say hi. Previously interned as a `Teaching Assistant` at **<a href="https://neog.camp/" target="blank">NeoG</a>**. Work-life balance is a myth (at least in an early career).
 
 🎒 Graduated as a Bachelor of Commerce (Hons.), Management. YES, I am a **self-taught developer**.
 
@@ -10,21 +10,18 @@
 
 🏁 The goal is to become a better developer learning a few things on the way.
 
-💼 Here's my **<a href="https://thesudeshdas.com/" target="_blank">Personal Portfolio</a>**
+💼 Here's my **<a href="https://thesudeshdas.com/" target="blank">Personal Portfolio</a>**
 
-📫 Reach out to me at **<a href="mailto:sudeshkumardas7@gmail.com" target="_blank">sudeshkumardas7@gmail.com</a>** or on my socials
+📫 Reach out to me at **<a href="mailto:sudeshkumardas7@gmail.com" target="blank">sudeshkumardas7@gmail.com</a>** or on my socials
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/thesudeshdas" target="_blank">
+  <a href="https://www.linkedin.com/in/thesudeshdas" target="blank">
     <img src="https://img.shields.io/static/v1?message=thesudeshdas&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/thesudeshdas" target="_blank">
+  <a href="https://twitter.com/thesudeshdas" target="blank">
     <img src="https://img.shields.io/static/v1?message=thesudeshdas&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="twitter logo"  />
   </a>
-  <a href="https://www.twitch.tv/thesudeshdas" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=thesudeshdas&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="twitch logo"  />
-  </a>
-  <a href="https://www.instagram.com/thesudeshdas" target="_blank">
+  <a href="https://www.instagram.com/thesudeshdas" target="blank">
     <img src="https://img.shields.io/static/v1?message=thesudeshdas&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="instagram logo"  />
   </a>
 </div>
