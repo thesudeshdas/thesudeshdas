@@ -6,7 +6,7 @@
 
 🎒 Graduated as a Bachelor of Commerce (Hons.), Management. YES, I am a **self-taught developer**.
 
-❓ I got into coding because I got curious about how the internet works. Figured I can build stuff on it by banging on your keyboard.
+❓ I got into coding because I got curious about how the internet works. Figured I can build stuff on it by banging on the keyboard.
 
 🏁 The goal is to become a better developer learning a few things on the way.
 
