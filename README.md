@@ -2,7 +2,7 @@
 
 ### A Fullstack Dev hailing from the <a href="https://odishatourism.gov.in/content/tourism/en.html" target="blank">best-kept secret</a> of India</h3>
 
-💸 By day, I work as a `Frontend Developer` at **<a href="https://www.talentplace.ai" target="blank">TalentPlace.ai</a>**. Come night, I stream on YouTube. Come say hi. Previously interned as a `Teaching Assistant` at **<a href="https://neog.camp/" target="blank">NeoG</a>**. Work-life balance is a myth (at least in an early career).
+💸 By day, I work as a `SDE Frontend` at **<a href="https://growthx.club" target="blank">GrowthX</a>**. Come night, I still work. Previously worked as `Frontend Developer` at **<a href="https://talentplace.ai" target="blank">TalentPlace.ai</a>** and interned as a `Teaching Assistant` at **<a href="https://neog.camp/" target="blank">NeoG</a>**. Work-life balance is a myth (at least in an early career).
 
 🎒 Graduated as a Bachelor of Commerce (Hons.), Management. YES, I am a **self-taught developer**.
 
@@ -62,6 +62,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/chakraui/319795" height="30" alt="chakraui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  /> 
   <img width="12" />
