@@ -2,7 +2,7 @@
 
 ### A Fullstack Dev hailing from the <a href="https://odishatourism.gov.in/content/tourism/en.html" target="blank">best-kept secret</a> of India</h3>
 
-💸 By day, I work as a `SDE Frontend` at **<a href="https://growthx.club" target="blank">GrowthX</a>**. Come night, I still work. Previously worked as `Frontend Developer` at **<a href="https://talentplace.ai" target="blank">TalentPlace.ai</a>** and interned as a `Teaching Assistant` at **<a href="https://neog.camp/" target="blank">NeoG</a>**. Work-life balance is a myth (at least in an early career).
+💸 By day, I work as a `Software Engineer` at **<a href="https://growthx.club" target="blank">GrowthX</a>**. Come night, I still work. Previously worked as `Frontend Developer` at **<a href="https://talentplace.ai" target="blank">TalentPlace.ai</a>** and interned as a `Teaching Assistant` at **<a href="https://neog.camp/" target="blank">NeoG</a>**. Work-life balance is a myth (at least in an early career).
 
 🎒 Graduated as a Bachelor of Commerce (Hons.), Management. YES, I am a **self-taught developer**.
 
